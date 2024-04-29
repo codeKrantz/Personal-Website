@@ -15,6 +15,14 @@ h2{
     padding-right: 700px;
 }
 
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 27%;
+    padding-right: 27%;
+}
+
 .center {
     display: block;
     margin-left: auto;
